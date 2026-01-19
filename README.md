@@ -1,0 +1,4 @@
+
+## git clone 
+## docker-compose up -d --build
+
